@@ -20,7 +20,7 @@ I also changed the algorithm a bit. Instead of updating Q-values with each exper
 
 ![Learning Graph](http://i.imgur.com/Xm8WPYk.png)
 
-As it can be seen, after around 1500 game iterations, the bot learns to play quite good, averaging about 150 score, and also occasionally hitting very good max scores.
+As it can be seen, after around 1500 game iterations, the bot learns to play quite well, averaging about 150 score, and also occasionally hitting very good max scores.
 
 ----------
 ###Update
